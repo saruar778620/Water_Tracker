@@ -17,3 +17,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![image alt](https://github.com/saruar778620/Water_Tracker/blob/f3ee97b3703fecbb1982e2a4b191c8f563d9017b/WhatsApp%20Image%202026-11-03%20at%201.05.45%20PM.jpeg)
+![image alt](https://github.com/saruar778620/Water_Tracker/blob/19f389c86c8b300b3beedcad665526769ca352f0/WhatsApp%20Video%202026-11-03%20at%2012.14.04%20PM.mp4)
